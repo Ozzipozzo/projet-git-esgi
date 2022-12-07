@@ -1,0 +1,19 @@
+{
+  "name": "projet-git-esgi",
+  "version": "1.0.0",
+  "description": "TP esgi cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ozzipozzo/projet-git-esgi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ozzipozzo/projet-git-esgi/issues"
+  },
+  "homepage": "https://github.com/Ozzipozzo/projet-git-esgi#readme"
+}
